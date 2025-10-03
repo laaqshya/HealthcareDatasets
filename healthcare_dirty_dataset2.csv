@@ -1,0 +1,21 @@
+Patient_ID,Full_Name,Sex,Visit_Year,Street_Address,Contact,Email_Address,HbA1c,Cholesterol,Diagnosis,Visit_Gap,Drug,Result,Symptom_Score
+A1001,Emily Carter,Female,2022,"12 Baker St, NY",212-555-8435,emily.carter@email.com,6.2,NaN,Diabetes,1.2,Metformin,Borderline,2
+A1002,Michael Brown,M,2021,"34 River Rd, NY",,michael.b@email.com,8.5,210,Hypertension,0.8,Losartan,High,4
+A1003,Linda Smith,FEMALE,2020,"56 Lake Ave, NY",212-555-7890,linda.s@email.com,5.9,170,Diabetes,2.5,Insulin,Normal,3
+A1004,John Doe,Male,2019,"78 Hill St, NY",212-555-0001,johndoe@email.com,,230,Hypertension,NaN,Amlodipine,High,5
+A1005,David Lee,male,2023,"90 Ocean Blvd, NY",212-555-2222,david.lee@email.com,7.1,190,Asthma,0.5,Albuterol,Low,1
+A1006,Emily Carter,Female,2022,"12 Baker St, NY",212-555-8435,emily.carter@email.com,6.2,NaN,Diabetes,1.2,Metformin,Borderline,2
+A1007,Sophia Green,F,2022,"101 Willow St, NY",212-555-3333,sophia.green@email.com,NaN,160,Asthma,1.1,Albuterol,Low,2
+A1008,,M,2023,,212-555-4444,,6.8,180,Diabetes,0.7,Metformin,Borderline,3
+A1009,Michael Brown,M,2021,"34 River Rd, NY",,michael.b@email.com,8.5,210,Hypertension,0.8,Losartan,High,4
+A1010,Linda Smith,FEMALE,2020,"56 Lake Ave, NY",212-555-7890,linda.s@email.com,5.9,170,Diabetes,2.5,Insulin,Normal,3
+A1011,John Doe,Male,2019,"78 Hill St, NY",212-555-0001,johndoe@email.com,,230,Hypertension,NaN,Amlodipine,High,5
+A1012,David Lee,male,2023,"90 Ocean Blvd, NY",212-555-2222,david.lee@email.com,7.1,190,Asthma,0.5,Albuterol,Low,1
+A1013,Sophia Green,F,2022,"101 Willow St, NY",212-555-3333,sophia.green@email.com,NaN,160,Asthma,1.1,Albuterol,Low,2
+A1014,,M,2023,,212-555-4444,,6.8,180,Diabetes,0.7,Metformin,Borderline,3
+A1015,Anna Wells,FEMALE,2020,"110 Palm St, NY",,anna.wells@email.com,5.7,150,Asthma,2.9,Albuterol,Low,2
+A1016,Mark Lee,Male,2021,"120 Oak St, NY",212-555-5555,mark.lee@email.com,11.2,320,Diabetes,0.3,Metformin,High,6
+A1017,Chris Young,M,2022,"130 Elm St, NY",212-555-6666,chris.young@email.com,5.5,140,Hypertension,1.4,Losartan,Normal,2
+A1018,Sarah King,FEMALE,2023,"140 Maple St, NY",212-555-7777,sarah.king@email.com,7.9,200,Asthma,0.9,Albuterol,Low,2
+A1019,Anna Wells,FEMALE,2020,"110 Palm St, NY",,anna.wells@email.com,5.7,150,Asthma,2.9,Albuterol,Low,2
+A1020,Mark Lee,Male,2021,"120 Oak St, NY",212-555-5555,mark.lee@email.com,11.2,320,Diabetes,0.3,Metformin,High,6
