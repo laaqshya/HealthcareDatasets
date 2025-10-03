@@ -1,0 +1,101 @@
+PatientID,Name,Age,Gender,BloodPressure,Diabetes,AdmissionDate
+001,John Doe,34,M,120/80,Yes,2021-01-15
+002,Jane Smith,NaN,F,140/90,No,15/02/2021
+003, ,27,Male,130-85,Yes,2021/03/22
+004,Mark Lee,45,M,?,No,2021-04-12
+005,Emily Davis,Two,Female,110/70,YES,2021-05-09
+006,Liam O'Neil,53,Male,180/110,No,2021-13-06
+007,Mia Wong,29,female,120/80,No,2021-07-18
+008,Chris Brown,62,M,160/100,,2021-08-22
+009,Anna Taylor,-5,F,115/75,No,2021-09-30
+010,Tom Green,105,M,200/150,Yes,2021-10-15
+011,Jane Smith,NaN,Female,140/90,No,2021-02-15
+012,Robert Smith,0,Male,120/80,Y,2021-11-01
+013,Sam & Lee,42,F,135/85,No,2021-12-12
+014,,27,M,abc,No,2022-01-10
+015,John Doe,34,M,120/80,Yes,2021-01-15
+016,Jessica Brown,?,F,120/80,No,2022-02-29
+017,Chris Brown,62,Male,160/100,Yes,2021-08-22
+018,Alex Murphy,300,Male,110/70,No,2022-03-10
+019,Lisa Ann,25,Female,115/75,No,03-15-2022
+020,Null,NaN,NULL,NULL,NULL,NULL
+021,Daniel Wu,44,Male,127/82,N/A,2022-04-31
+022,Mary-Jane,38,Female,125/80,No,2022-05-15
+023,John Doe,thirty,M,120/80,yes,2021-01-15
+024,Elena Gilbert,27,F,115/75,,2022-06-19
+025,"S@rah O'Connor",28,F,119/77,No,2022-07-20
+026,Peter Pan,37,Male,140/90,No,2022-08-21
+027,Tommy Shelby,46,Male,?,Yes,2022-09-15
+028,Linda Gray,NaN,Female,135/88,No,2022-10-12
+029,James Bond,38,M,129/82,No,2022-11-10
+030,Mary Cooper,65,Female,110/60,No,2022-12-11
+031,John Doe,34,M,120/80,Yes,2021-01-15
+032,Chris Brown,62,M,160/100,No,2021-08-22
+033,Jane Smith,NaN,F,140/90,No,15/02/2021
+034,Emily Davis,Two,Female,110/70,YES,2021-05-09
+035,,"",Male,130-85,Yes,2021/03/22
+036,Mark Lee,45,M,?,No,2021-04-12
+037,Mia Wong,29,female,120/80,No,2021-07-18
+038,Liam O'Neil,53,Male,180/110,No,2021-13-06
+039,Anna Taylor,-5,F,115/75,No,2021-09-30
+040,Tom Green,105,M,200/150,Yes,2021-10-15
+041,Jane Smith,NaN,Female,140/90,No,2021-02-15
+042,Robert Smith,0,Male,120/80,Y,2021-11-01
+043,Sam & Lee,42,F,135/85,No,2021-12-12
+044,,27,M,abc,No,2022-01-10
+045,John Doe,34,M,120/80,Yes,2021-01-15
+046,Jessica Brown,?,F,120/80,No,2022-02-29
+047,Chris Brown,62,Male,160/100,Yes,2021-08-22
+048,Alex Murphy,300,Male,110/70,No,2022-03-10
+049,Lisa Ann,25,Female,115/75,No,03-15-2022
+050,Null,NaN,NULL,NULL,NULL,NULL
+051,Daniel Wu,44,Male,127/82,N/A,2022-04-31
+052,Mary-Jane,38,Female,125/80,No,2022-05-15
+053,John Doe,thirty,M,120/80,yes,2021-01-15
+054,Elena Gilbert,27,F,115/75,,2022-06-19
+055,"S@rah O'Connor",28,F,119/77,No,2022-07-20
+056,Peter Pan,37,Male,140/90,No,2022-08-21
+057,Tommy Shelby,46,Male,?,Yes,2022-09-15
+058,Linda Gray,NaN,Female,135/88,No,2022-10-12
+059,James Bond,38,M,129/82,No,2022-11-10
+060,Mary Cooper,65,Female,110/60,No,2022-12-11
+061,Alice Smith,NaN,Female,127/81,No,2023-01-05
+062,Bob White,56,M,135/95,Yes,2023-02-14
+063,Carol Black,45,Female,?,No,2023-03-11
+064,David Green,28,Male,119/76,No,2023-04-18
+065,Eve Blue,75,F,101/63,YES,2023-05-21
+066,Fred Brown,22,Male,149/99,No,2023-06-30
+067,Gina Gold,32,Female,120/80,No,2023-07-15
+068,Hank Silver,NaN,M,130/85,No,2023-08-16
+069,Ivy Gray,38,Female,111/72,No,2023-09-27
+070,Jack Black,,-,125/90,No,2023-10-13
+071,Kate White,42,Female,118/77,No,10/11/2023
+072,Luke Brown,59,Male,142/88,No,2023-12-08
+073,Mona Blue,65,F,110/70,No,2024-01-01
+074,Nate Silver,NaN,Male,?,No,2024-02-19
+075,Olivia Gold,50,Female,126/83,No,2024-03-03
+076,Paul Gray,47,M,135/89,No,2024-04-17
+077,Queen Black,35,Female,120/80,No,2024-05-12
+078,Rick White,NaN,M,110/70,No,2024-06-23
+079,Sue Brown,61,F,119/79,YES,2024-07-07
+080,Tom Blue,-20,Male,130/85,No,2024-08-11
+081,Ursula Silver,29,Female,122/78,No,2024-09-22
+082,Vic Gold,72,Male,147/96,No,2024-10-15
+083,Wendy Gray,NaN,Female,110/70,No,2024-11-19
+084,Xander Black,40,M,125/81,No,2024-12-30
+085,Yara White,55,Female,133/85,No,2025-01-28
+086,Zane Brown,18,Male,118/76,No,2025-02-15
+087,Amy Gold,NaN,Female,?,No,2025-03-10
+088,Brent Gray,102,M,200/150,Yes,2025-04-22
+089,Chloe Black,35,Female,115/75,No,2025-05-17
+090,Dan White,thirty,Male,140/90,yes,2025-06-09
+091,Ella Blue,29,F,120/80,No,2025-07-21
+092,Fay Silver,NaN,Female,135/88,No,2025-08-01
+093,Gary Gold,44,Male,127/82,N/A,2025-09-18
+094,Helen Gray,38,Female,125/80,No,2025-10-02
+095,Ian Black,thirty,M,120/80,yes,2025-11-12
+096,Jill White,27,F,115/75,,2025-12-20
+097,Karl Brown,28,M,119/77,No,2026-01-05
+098,Lana Blue,37,Female,140/90,No,2026-02-11
+099,Mike Gold,46,Male,?,Yes,2026-03-15
+100,Nina Gray,NaN,Female,135/88,No,2026-04-18
